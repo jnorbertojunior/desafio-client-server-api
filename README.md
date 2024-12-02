@@ -26,8 +26,10 @@ Ao finalizar, envie o link do repositório para correção.
 
 Informações para rodar o Server e o Client
 
-Server
+- Server
+
 go run server.go
 
-Client
+- Client
+
 go run client.go
